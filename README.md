@@ -1,2 +1,2 @@
 # CS-210-Programming-Languages-
-This repository contains projects that were completed while completing the course CS-210. The primary programming language used in this course is C++. 
+This repository contains projects completed as part of the CS-210: Programming Languages course. C++ is the primary programming language used throughout the course.
